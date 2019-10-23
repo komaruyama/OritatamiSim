@@ -1,5 +1,7 @@
 # OritatamiSim
 
+This simulator is developed in JavaSE 9.
+
 How to use this oritatami simulator
 1. Please specify the scale of triangular grid.
 2. Specify an ".aos" file by clicking the "Load" button.
